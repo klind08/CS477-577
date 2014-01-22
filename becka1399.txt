@@ -1,5 +1,2 @@
 My name is Sam
-$ sudo apt-get install git
-$ git config –global user.name "KirkLind"
-$ git config –global user.email "lindk@wou.edu"
-$ git config --list
+
